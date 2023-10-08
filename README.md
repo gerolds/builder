@@ -19,3 +19,9 @@ Readymade.Builder is designed to be a drop-in featrue extenstion to any 3D game.
 ## Requirements
 
 - Unity 2022.3.0 or later.
+
+## Dependencies
+
+- https://github.com/vertxxyz/Vertx.Debugging
+- https://github.com/Cysharp/UniTask
+- https://github.com/dbrizov/NaughtyAttributes
