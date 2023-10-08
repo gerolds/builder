@@ -26,3 +26,4 @@ Readymade.Builder is designed to be a drop-in featrue extenstion to any 3D game.
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)
 - [Newtonsoft JSON](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.2/manual/index.html)
+- [Newtonsoft JSON for Unity](https://github.com/applejag/Newtonsoft.Json-for-Unity)
