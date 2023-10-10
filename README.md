@@ -40,7 +40,7 @@ Readymade.Builder is designed to be a drop-in featrue extenstion to any 3D game.
 
 ## 3rd Party Dependencies (Commercial)
 
-These are optional for use with the builder module, but for building an actual project these are pretty much required. Make sure you have them installed if you want to use the unity project.
+These are optional for use with the builder module, but for building an actual project these are pretty much required. Make sure you have them installed if you want to use the unity project, they are not included in the repo and expected to be installed to their default location.
 
 - A* Pathfinding Project Pro (Required for threaded, runtime recalculation of navmeshes)
 - Quantum Console (Can technically be replaced by your own implementation)
